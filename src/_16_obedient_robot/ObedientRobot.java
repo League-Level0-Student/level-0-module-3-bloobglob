@@ -1,7 +1,5 @@
 package _16_obedient_robot;
 
-import java.awt.Color;
-
 import javax.swing.JOptionPane;
 
 import org.jointheleague.graphical.robot.Robot;
